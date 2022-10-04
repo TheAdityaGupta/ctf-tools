@@ -47,6 +47,7 @@
 | Bourbxn          | https://github.com/Bourbxn |
 | Abhishek Kumar Roy | https://github.com/Adi-Abhishek |
 | mirusu400 | https://github.com/mirusu400 |
+|Aditya | https://github.com/TheAdityaGupta |
 | Chinmay | https://github.com/chinmayayy |
 | Arefat H. | https://github.com/arefathi | 
 | Nishant | https://github.com/Nishantjain10 |
