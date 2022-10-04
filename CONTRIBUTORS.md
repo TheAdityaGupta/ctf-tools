@@ -23,6 +23,7 @@
 | Sooki              | https://github.com/0xSooki      |
 | Exit-Guy           | https://github.com/exithere     |
 | Poomipat-Ch        | https://github.com/Poomipat-Ch  |
+| Aditya | https://github.com/TheAdityaGupta |
 | Shyam Sunder S     | https://github.com/ShyamSunder149|
 | Amdjedbens | https://github.com/amdjedbens |
 | nga1hte | https://github.com/nga1hte |
