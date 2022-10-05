@@ -98,6 +98,7 @@
 | octosuite          | OSINT    | https://github.com/bellingcat/octosuite        | Advanced Github OSINT Framework                                                                                                                                                          |
 | Watools            | OSINT    | https://Watools.io                             | download whatsapp profile picture                                                                                                                                                        |
 | WAGSCRAPER         | OSINT    | https://github.com/riz4d/WaGpScraper           | A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.                                        |
+| OSINTGRAM | OSINT | https://github.com/Datalux/Osintgram.git | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname |
 
 
 
